@@ -8,7 +8,7 @@ class Adder {
         x = Sc.nextInt();
         System.out.println("Y=");
         y = Sc.nextInt();
-        sum = x+y;
+        sum = x*y;
         System.out.println("Sum="+sum);
 
     }
